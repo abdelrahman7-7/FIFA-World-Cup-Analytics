@@ -12,7 +12,7 @@ A comprehensive data analysis project examining FIFA World Cup data using Python
 - [Tournamnts Notebook](https://colab.research.google.com/drive/1r8M3W5gMLI1_QjgOjbrBJYkrBZuE_ifk)
 - [Players Notebook](https://colab.research.google.com/drive/1iqZKnFur_eJfgxEDejuwOWySMuI1KKV)
 - [Player_appearances Notebook](https://colab.research.google.com/drive/1Ti_RkyKQXpf07rpBSqrqy94mCQVqpqi)
-- [Refree_appearances Notebook](https://colab.research.google.com/drive/1Y0T052sUYACqCPM2ovd6NUoNRb13pQxk)
+- [Refree_appearances Notebook](https://colab.research.google.com/drive/1Y0TO52sUYACQcPM2ovd6NUoNRbl3pQxk?usp=sharing)
 
 ## 🛠️ Technologies & Tools
 - **Python** (Google Colab)
