@@ -8,7 +8,7 @@ A comprehensive data analysis project examining FIFA World Cup data using Python
 - **world_cup - Copy.pptx**: Presentation slides summarizing the project findings.
 
 ## 🔗 Google Colab Notebooks
-- [Team_appearances Notebook](https://colab.research.google.com/drive/1CQKIGuysbZa8KyXBBH89P4dfKw2tOtsh)
+- [Team_appearances Notebook](https://colab.research.google.com/drive/1CQKIGuysbZa8KyXBBH89P4dfKw2t0tsh)
 - [Tournamnts Notebook](https://colab.research.google.com/drive/1r8M3w5gmLI1_OjgOjbRBjYkrBZuE_iFk)
 - [Players Notebook](https://colab.research.google.com/drive/1iqZKnFUr_eJfgxEDejyuwOWySMuIlKkV)
 - [Player_appearances Notebook](https://colab.research.google.com/drive/1Ti_RkyKQxWpf07rpBSqrqy94mCQVqpqi)
